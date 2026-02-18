@@ -3,3 +3,4 @@
 /cidade_conse.py
 __pycache__/
 /*.toml
+.streamlit/
